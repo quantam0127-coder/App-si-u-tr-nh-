@@ -1,0 +1,8 @@
+{
+  "name": "Đấu Trường Siêu Trí Nhớ",
+  "description": "Trò chơi đấu trường toán học nhân chia phong cách truyền hình với đồng hồ đếm ngược 10 giây, âm thanh sống động và bảng xếp hạng thành tích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
